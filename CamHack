@@ -1,0 +1,8 @@
+camhack by onlinehacking
+apt update -y && apt upgrade -y
+apt install git wget php curl -y
+git clone https://github.com/OnlineHacKing/CameraHack.git 
+cd CameraHack 
+chmod +x *
+bash setup
+bash CamHack
